@@ -6,4 +6,4 @@ libraries used:
 3. Butterknife
 4. Picasso
 
-![Image](Digital-Books-Catalogue/10.png)
+![Image](https://github.com/rkaprasetya/Digital-Books-Catalogue/blob/master/10.png)
