@@ -7,3 +7,6 @@ libraries used:
 4. Picasso
 
 ![Image](https://github.com/rkaprasetya/Digital-Books-Catalogue/blob/master/10.png)
+![Image](https://github.com/rkaprasetya/Digital-Books-Catalogue/blob/master/2.png)
+![Image](https://github.com/rkaprasetya/Digital-Books-Catalogue/blob/master/3.png)
+![Image](https://github.com/rkaprasetya/Digital-Books-Catalogue/blob/master/4.png)
