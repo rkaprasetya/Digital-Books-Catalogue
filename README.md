@@ -6,4 +6,4 @@ libraries used:
 3. Butterknife
 4. Picasso
 
-![alt text](Digital-Books-Catalogue/10.png)
+![Image](Digital-Books-Catalogue/10.png)
